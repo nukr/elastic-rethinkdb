@@ -1,6 +1,6 @@
 {
   "name": "elastic-rethinkdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A wrapper to help people connect rethinkdb to elastic search, also provide some tools for manipulate data.",
   "main": "lib/elasticsearch.js",
   "scripts": {
